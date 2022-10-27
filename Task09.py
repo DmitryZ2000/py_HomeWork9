@@ -4,6 +4,7 @@ from sympy.solvers.inequalities import solve_univariate_inequality
 
 # Данный код я запускал на https://colab.research.google.com
 # Было интересно посмотреть как это будет на VSC.
+# На colab графики красивее и уравнения выводятся символьно
 
 x = Symbol('x')
 y = Symbol('y')
